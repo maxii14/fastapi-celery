@@ -1,0 +1,12 @@
+fastapi[all]
+celery
+flower
+python-pkcs11
+starlette
+pycryptodome
+pydantic
+pydantic-settings
+psycopg2-binary
+psycopg
+psycopg-binary
+sqlalchemy
